@@ -1,10 +1,10 @@
 #include <iostream>
-usenamespace std;
+using namespace std;
 int main() {
-    "####\n"
-    "abc\n"
-    "###\n"
+    cout << "####\n";
+    cout << "abc\n";
+    cout << "###\n";
     return 0;
     
-"
+
 }
